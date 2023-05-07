@@ -10,8 +10,11 @@ Furthermore, yield crop prediction can assist farmers in more efficiently managi
 ### Title Name: YIELD CROP PREDICTION
 
 ### Team Members: 
-+ 
++ MUHAMMAD BRUCE LEE
++ RUSDY NASUTION
++ MUHAMMAD HAZIQ ISKANDAR
 + MUHAMMAD NUR HASIF BIN ABU BAKAR
++ SYAKIRAH HANIM
 
 ### Objectives:
 + To determine potential for economic growth, such as via the establishment of new industries or the optimisation of current ones.
