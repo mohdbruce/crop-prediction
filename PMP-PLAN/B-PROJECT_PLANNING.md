@@ -7,7 +7,7 @@ we use decision tree algorithm as our method where we used for both classificati
 
 since we want to make the prediction for the yield of the crop with the temperature, rainfall and pesticides as the feature. The decison tree algorithm can then be used to predict the crop yield for a given feature. Then, the resulting decision tree can provide insights into the most important factors that influence crop yields and can help farmers optimize their crop management practices for better yields.
 
-##Steps:
+####Steps:
 
 #Data Collection: Data on crop yields being collected and detailed reaserch being made.
 
