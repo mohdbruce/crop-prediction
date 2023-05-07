@@ -11,7 +11,7 @@ Furthermore, yield crop prediction can assist farmers in more efficiently managi
 
 ### Team Members: 
 + MUHAMMAD BRUCE LEE
-+ RUSDY NASUTION
++ RUSYDI NASUTION BIN RIDUAN
 + MUHAMMAD HAZIQ ISKANDAR
 + MUHAMMAD NUR HASIF BIN ABU BAKAR
 + SYAKIRAH HANIM
