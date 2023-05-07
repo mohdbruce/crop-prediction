@@ -1,3 +1,12 @@
-# Project Design and Coding
+# PROJECT OVERVIEW
 
-## Description of the project coding and implementation
+# D. PROJECT EXECUTION
+
+
+## PROJECT CODING
+
+**PART 1: DESCRIPTION OF THE PROJECT**
+
+Library and package required:
+
+
