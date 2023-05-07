@@ -27,4 +27,4 @@ Project implementation specifies the project deliverables, such as software requ
 Project execution phase is where the outcome, coding blocks, and technological implementation are specified and documented.
 
 ##### Project Closing: [Project Closing](PMP-PLAN/E-PROJECT_CLOSING.md)
-Project Closing denotes the conclusion of the project lifetime, at which point the project must record the result.
+Project Closing denotes the conclusion of the project, at which point the project must record the result.
