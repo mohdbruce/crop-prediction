@@ -13,5 +13,5 @@ To make this project becomes successful, we have used:
 -Google Colab for Python language
  
  
- 
  Team members: Mohd Bruce Lee, Rusydi Nasution, Muhammad Nur Hasif, Muhammad Haziq Iskandar, Syakirah Hanim
+
