@@ -14,14 +14,4 @@ To make this project becomes successful, we have used:
  
  
  
- Team members: 
- 
- Mohd Bruce Lee 
- 
- Rusydi Nasution
- 
- Muhammad Nur Hasif
- 
- Muhammad Haziq Iskandar
- 
- Syakirah Hanim
+ Team members: Mohd Bruce Lee, Rusydi Nasution, Muhammad Nur Hasif, Muhammad Haziq Iskandar, Syakirah Hanim
