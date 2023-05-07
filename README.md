@@ -6,13 +6,22 @@ In this project, we have build Crop Yield Prediction in predicting size of yield
 
 To make this project becomes successful, we have used:
 -Dataset from Kaggle (https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset?resource=download)
+ 
  -Specific csv file: yield_df.csv
 -Google Colab
+ 
  -Python language
  
+ 
+ 
  Team members: 
+ 
  Mohd Bruce Lee 
+ 
  Rusydi Nasution
+ 
  Muhammad Nur Hasif
+ 
  Muhammad Haziq Iskandar
+ 
  Syakirah Hanim
