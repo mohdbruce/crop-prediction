@@ -9,15 +9,20 @@ since we want to make the prediction for the yield of the crop with the temperat
 
 ## Steps:
 
-Data Collection: Data on crop yields being collected and detailed reaserch being made.
+#### Data Collection:
+Data on crop yields being collected and detailed reaserch being made.
 
-Data Preprocessing: The collected data is preprocessed by cleaning the data, handling missing values, and encoding categorical variables.
+#### Data Preprocessing: 
+The collected data is preprocessed by cleaning the data, handling missing values, and encoding categorical variables.
 
-Feature Selection: we use all the feature from the dataset since we all the feature in the dataset is important to achieve our objective.
+#### Feature Selection: 
+We use all the feature from the dataset since we all the feature in the dataset is important to achieve our objective.
 
-Training and Testing: The decision tree algorithm is trained on the selected features using the train dataset that being split, while the rest of the data is used for validation using the test dataset. The performance of the algorithm is evaluated based on metrics such as mean absolute error or R-squared.
+#### Training and validation: 
+The decision tree algorithm is trained on the selected features using the train dataset that being split, while the rest of the data is used for validation using the test dataset. The performance of the algorithm is evaluated based on metrics such as mean absolute error or R-squared.
 
-Testing: Once the algorithm is trained and tested, it can be used to make predictions on new, unseen data.
+#### Testing: 
+Once the algorithm is trained and tested, it can be used to make predictions on new, unseen data.
 
 
 <br><br><br>
