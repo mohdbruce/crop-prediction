@@ -25,6 +25,7 @@ Furthermore,crop yield prediction can assist farmers in more efficiently managin
 + To maximise crop yield and minimise waste, ensuring that more people have access to healthy and cheap food.
 
 <br><br><br>
-##### Next: [Project Implementation](C-PROJECT_IMPLEMENTATION.md)
+##### Next: [Project Planning](B-PROJECT_PLANNING.md)
+
 
 
