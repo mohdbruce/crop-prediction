@@ -17,3 +17,6 @@ Project Summary give a brief overview of the project objectives and team members
 
 ##### Project Implementation: [Project Implementaion](PMP-PLAN/C-PROJECT_IMPLEMENTATION.md)
 Project implementation specifies the project deliverables, such as software requirements and intelligent system design.
+
+##### Project Execution: [Project Execution](PMP-PLAN/D-PROJECT_EXECUTION.md)
+Project execution phase is where the outcome, coding blocks, and technological implementation are specified and documented.
