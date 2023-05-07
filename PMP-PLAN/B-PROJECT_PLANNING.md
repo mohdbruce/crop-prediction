@@ -24,6 +24,7 @@ The decision tree algorithm is trained on the selected features using the train 
 #### Testing: 
 Once the algorithm is trained and tested, it can be used to make predictions on new, unseen data.
 
+<br>
 ![ids drawio](https://user-images.githubusercontent.com/121602283/236688617-8eacedbc-1030-4c09-b791-62ebbbae93ac.png) <br><br>
 
 
