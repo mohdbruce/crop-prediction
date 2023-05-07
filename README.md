@@ -15,3 +15,5 @@ To make this project becomes successful, we have used:
 ##### Project Summary: [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md)
 Project Summary give a brief overview of the project objectives and team members details. 
 
+##### Project Implementation: [Project Implementaion](PMP-PLAN/C-PROJECT_IMPLEMENTATION.md)
+Project implementation specifies the project deliverables, such as software requirements and intelligent system design.
