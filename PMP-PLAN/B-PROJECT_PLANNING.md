@@ -3,7 +3,7 @@
 
 ## Method:
 
-we use decision tree algorithm as our method where we used for both classification and regression of the crop. The decision tree algorithm is a type of supervised learning algorithm that works by recursively partitioning the input data into subsets based on the values of the input features, until a stopping criterion is met. The result then can be used to make predictions on new, unseen data.
+We use decision tree algorithm as our method where we used for both classification and regression of the crop. The decision tree algorithm is a type of supervised learning algorithm that works by recursively partitioning the input data into subsets based on the values of the input features, until a stopping criterion is met. The result then can be used to make predictions on new, unseen data.
 
 since we want to make the prediction for the yield of the crop with the temperature, rainfall and pesticides as the feature. The decison tree algorithm can then be used to predict the crop yield for a given feature. Then, the resulting decision tree can provide insights into the most important factors that influence crop yields and can help farmers optimize their crop management practices for better yields.
 
