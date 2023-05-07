@@ -27,7 +27,8 @@ For the software, we used Jupiter platform to code the python program for the AI
 + Wheat
 + Yams
 
-  The dataset cover each part of the world, it it good since we can see all the crop that being observe with a different environment on different country. It is also contains the climatic factors include rainfall and temperature in each country from year 1961 to 2016. The dataset contains the crops yields production value with hg/ha as the unit.
+
+ The dataset cover each part of the world, it it good since we can see all the crop that being observe with a different environment on different country. It is also contains the climatic factors include rainfall and temperature in each country from year 1961 to 2016. The dataset contains the crops yields production value with hg/ha as the unit.
 
 
 
