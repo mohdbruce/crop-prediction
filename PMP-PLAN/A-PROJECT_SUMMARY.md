@@ -34,15 +34,15 @@ Furthermore,crop yield prediction can assist farmers in more efficiently managin
   
   The dataset contains crop:
   
-    + Maize
-    + Plantains and others
-    + Potatoes
-    + Rice, paddy
-    + Sorghum
-    + Soybeans
-    + Sweet potatoes
-    + Wheat
-    + Yams
++ Maize
++ Plantains and others
++ Potatoes
++ Rice, paddy
++ Sorghum
++ Soybeans
++ Sweet potatoes
++ Wheat
++ Yams
  
   The dataset cover each part of the world, it it good since we can see all the crop that being observe with a different environment on different country. It is also contains the climatic factors include rainfall and temperature in each country from year 1961 to 2016. The dataset contains the crops yields production value with hg/ha as the unit.
 
