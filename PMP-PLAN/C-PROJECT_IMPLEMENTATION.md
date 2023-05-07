@@ -9,7 +9,7 @@ For the hardware we used our laptop which is consists of intel core I5 8th Gen +
 
 
 #### Software Requirement:
-For the software, we used Jupiter platform to code the python program for the AI module which is predicting the yield crop prediction and displaying the output. The database we used is took from UCI machine learning repository which is the Kaggle Dataset.
+For the software, we used Google Colab to code the python program for the AI module which is predicting the yield crop prediction and displaying the output. This is due to the fact that Google Colab provide free GPUs to be utilized during the training processes. In this way, the training will not take a lot of time due to the limitation of our physical GPUs. The dataset that we used in the project was taken from Kaggle.
 
 ### Dataset:
 
@@ -28,7 +28,7 @@ For the software, we used Jupiter platform to code the python program for the AI
 + Yams
 
 
- The dataset cover each part of the world, it it good since we can see all the crop that being observe with a different environment on different country. It is also contains the climatic factors include rainfall and temperature in each country from year 1961 to 2016. The dataset contains the crops yields production value with hg/ha as the unit.
+ The dataset cover each part of the world, which is good since we can see all the crop that being observe with a different environment on different country. It is also contains the climatic factors include rainfall and temperature in each country from year 1961 to 2016. The dataset contains the crops yields production value with hg/ha as the unit.
 
 
 
